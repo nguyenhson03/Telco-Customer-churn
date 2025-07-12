@@ -24,4 +24,4 @@ Bài toán churn (khách hàng rời đi) là một trong những vấn đề qu
 ---
 ##  Mô hình
 Sử dụng **Keras (TensorFlow)** để xây dựng mô hình MLP (Multilayer Perceptron)
-
+link dự án:https://colab.research.google.com/github/nguyenhson03/Telco-Customer-churn/blob/main/Telco_Customer_Churn.ipynb
